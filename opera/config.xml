@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" version="1.0">
+	<name>Classic Retweet</name>
+	<description>
+		'Old school' retweets for Twitter. Add your own comment to a retweet with the 'Classic RT' button.
+	</description>
+	<author>Ported from Jon Pierce's code (http://jonpierce.github.com/classic-retweet/) by Michael Clelland</author>
+	<icon src="images/icon_128.png" />
+	<icon src="images/icon_64.png" />
+    <access origin="https://twitter.com" subdomains="true"/>
+</widget>
